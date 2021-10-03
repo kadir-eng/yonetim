@@ -1,0 +1,2 @@
+# yonetim
+Yönetim botum
